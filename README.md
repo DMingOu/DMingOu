@@ -45,7 +45,7 @@
 
 
 
-<img src="http://picbed-dmingou.oss-cn-shenzhen.aliyuncs.com/img/image-20200909200956634.png" width="40%" height="40%">
+<img src="https://picbed-dmingou.oss-cn-shenzhen.aliyuncs.com/img/20210223142136.png" width="40%" height="40%">
 
 #### 产品效果图
 
